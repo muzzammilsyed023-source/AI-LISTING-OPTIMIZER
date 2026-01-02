@@ -44,7 +44,7 @@ Or run locally with Docker:
 ```bash
 git clone https://huggingface.co/spaces/your-username/sellspark
 cd sellspark
-docker build -t sellspark .
+docker build -t sellspark
 docker run -p 8501:8501 sellspark
 👨‍💻 Author
 Built with ❤️ by Syed Mohammed Muzzammil
