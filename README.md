@@ -42,7 +42,7 @@ Click the **"Open in Spaces"** button above to launch instantly.
 Or run locally with Docker:
 
 ```bash
-git clone https://huggingface.co/spaces/your-username/sellspark
+git clone https://huggingface.co/spaces/syed0786-s/SellSpark
 cd sellspark
 docker build -t sellspark
 docker run -p 8501:8501 sellspark
